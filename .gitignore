@@ -1,0 +1,6 @@
+*.dll
+*.pdb
+Releases/
+obj/
+bin/
+Media/
